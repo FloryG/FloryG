@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @FloryG
-- 👀 I’m interested in Java, Python, and graphics
-- 🌱 I’m currently learning Digital Marketing
-- 💞️ I’m not looking to collaborate on anything currently :D 
+- 👀 I’m interested in Dart, C, and Python
+- 💼 Currently an Analyst at Schneider
 - 📫 How to reach me florian.gal22@gmail.com
 
 <!---
